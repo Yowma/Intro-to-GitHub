@@ -8,5 +8,7 @@ Practice lang to for GitHub activity ni Sir CM
 3. Commit your changes and push them back to the repository.
 
 welcome kayo magcontribute dito hehe 
+damihan nyo ilalagay nyo sample lang 
+mga pics and codes
 
 By: Yuma Wakayama
